@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-Android-PanelView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-Android-PanelView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Reference\\REF-Android-PanelView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Reference\\REF-Android-PanelView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
